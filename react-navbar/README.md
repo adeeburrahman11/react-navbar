@@ -1,8 +1,12 @@
-# React + Vite
+## Owner : ADEEBUR RAHMAN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Responsive Navigation Bar with hover drop down using React
 
-Currently, two official plugins are available:
+1. This is a react app for responsive navigation bar using react
+2. This React application is made using Vite and React as framework and JavaScript is used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## After cloning run the following commands:
+
+1. npm install
+2. npm install react-router-dom
+3. npm run dev
